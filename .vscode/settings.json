@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.check.allTargets": true,
+    "rust-analyzer.check.features": "all",
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml"
+    ]
+}
